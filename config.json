@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderdonnect",
+        "uuid": 21900975,
+        "checksum": "t2nuib"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
